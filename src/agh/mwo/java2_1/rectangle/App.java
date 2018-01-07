@@ -27,7 +27,7 @@ public class App {
 				System.out.println(height == rectangle.getHeight());
 				System.out.println(width == rectangle.getWidth());
 			} catch (IllegalArgumentException e) {
-				System.out.println("blad");
+				System.out.println("error");
 				continue;
 			}
 
