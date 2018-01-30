@@ -6,6 +6,7 @@ public class App {
 		String test = "I car komedia i demokraci";
 		
 		System.out.println(Palindrome.check(test));
+		
 	}
 
 }
